@@ -1,0 +1,16 @@
+1. is nextjs video, gif, pdf next.config.js
+2. .env and .env.local difference
+3. globals css is mandatory?
+*4. scss usage in next project and how to use?
+5. page.module.css file name convention and without (page.) 
+6. how to use multiple css class in .module.css file global css + module css
+7. import { Inter } from 'next/font/google'
+   const inter = Inter({ subsets: ['latin'] })
+8. google font and custom font differnet
+9. export default function RootLayout({ children }) {return (<html lang="en">)}
+10. <body className={inter.className}>
+11. <div className="container"> usage
+12. context api next js
+13. ThemeContext, dark mode, toggle
+14. onClick={() => {console.log("logged out");}}
+15. 
